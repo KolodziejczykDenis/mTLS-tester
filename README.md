@@ -1,3 +1,3 @@
 # mTLS Tester
 
-Simple Kubernetes-ready application to test mTLS connections
+Simple Kubernetes-ready application for testing mTLS requests
